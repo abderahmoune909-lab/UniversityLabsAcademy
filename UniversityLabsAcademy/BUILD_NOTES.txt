@@ -1,0 +1,1 @@
+University Labs Academy project. Contains only the five core university labs: Operating Systems, Analysis 1, Algebra 1, Algorithms and C, and Computer Engineering. Streaming English Academy is a separate side project and is intentionally excluded. Accidental extra uploads (Algebra TD Series 1 and standalone Boolean Algebra PDF) are excluded.
